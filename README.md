@@ -2,7 +2,7 @@
 # Description: A simple Web3 Ethereum wallet balance checker
 
 # Install:
-npm init -y
+npm init -
 npm install ethers
 
 # index.js
