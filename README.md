@@ -20,7 +20,7 @@ async function checkBalance(wallet) {
   }
 }
 
-const  = process.argv[2];
+const wallet = process.argv[2];
 
 if (!wallet) {
   console.log("Usage: node index.js <wallet_address>");
