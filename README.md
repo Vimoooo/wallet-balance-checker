@@ -27,4 +27,4 @@ if (!wallet) {
   process.exit(1);
 }
 
-checkBalance(wallet);
+checkBalance();
