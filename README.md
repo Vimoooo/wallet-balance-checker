@@ -1,7 +1,7 @@
 # Repository: wallet-balance-checker
 # Description: A simple Web3 Ethereum wallet balance checker
 
-# :
+# Install:
 npm init -y
 npm install ethers
 
