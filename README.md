@@ -8,7 +8,7 @@ npm install ethers
 # index.js
 const { ethers } = require("ethers");
 
- provider = new ethers.JsonRpcProvider("https://cloudflare-eth.com");
+const provider = new ethers.JsonRpcProvider("https://cloudflare-eth.com");
 
 async function checkBalance(wallet) {
   try {
